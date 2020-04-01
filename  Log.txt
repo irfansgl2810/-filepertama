@@ -1,0 +1,9 @@
+ KeyPadAndVibrator---2
+VersionInfo---2
+TouchPanel---2
+Battery---1
+DualSIMCard---1
+GPS---2
+LCD---2
+TpOpenShort---2
+
